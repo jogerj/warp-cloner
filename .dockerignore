@@ -6,6 +6,11 @@ docker-compose.yml
 Dockerfile
 .dockerignore
 
+# text
+proxies.txt
+output.txt
+
+
 # git
 .git
 .github
